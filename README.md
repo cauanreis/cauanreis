@@ -3,7 +3,7 @@
 
 ### Sobre mim:
 
-> Minicurso de Git e GitHub
+* Minicurso de Git e GitHub
 
 - 👿 Apredendo Java
 - 🤓 Estudando CC
